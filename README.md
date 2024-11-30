@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/da1e35fe-6f3c-493e-836a-8e46c542e985)# mindspore-lab
 # 智赋英才 - 基于MindSpore和素质本位的STEM教育方案
 
 ## 项目概述
@@ -103,6 +102,13 @@ python experiment_assessment.py --input data/student_videos/
 - **K12学校与教育机构**：用作实验教育辅导系统、考试评分系统。
 - **家庭教育**：提供STEM教育启蒙，通过情感分析与游戏化学习提升儿童学习兴趣。
 - **教师与教育机构管理者**：通过数据分析与个性化学习报告，改进教学策略并提升教学质量。
+
+##应用反馈
+本产品在试用中表现卓越，获得了教育界的积极反馈和购买意向；同时在学术领域实现了成果转化，包括两项软件著作权、一个应用软件和一个学术论文，以及一项专利申请，彰显了我们项目的技术实力和商业潜力。
+<center class ='img'>
+<img title="图3：使用评价以及反馈" src="使用评价以及反馈.png" width="100%" height="100%">
+</center>
+
 
 ## 展望与未来
 

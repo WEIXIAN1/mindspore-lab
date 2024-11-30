@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<filename>M139_[351_1887]_img2_43_org_batch0_R_19.jpg</filename>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>ans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>361</xmin>
+			<ymin>22</ymin>
+			<xmax>408</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>47</ymin>
+			<xmax>210</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>

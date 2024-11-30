@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<filename>M138_[457_1637]_img1_231_org_batch0_R_4.jpg</filename>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>ans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>407</ymin>
+			<xmax>288</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<filename>M134_[275_417]01e7b375-86fd-11eb-aae6-2cea7fe7e3ec_2021-03-17-16-44-38_1b66cfb7-36a4-45c2-bd6d-e1f9893764d0_out_47_1_org_batch0_R_5.jpg</filename>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>ans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>304</ymin>
+			<xmax>414</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>14</ymin>
+			<xmax>434</xmax>
+			<ymax>82</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>111</ymin>
+			<xmax>405</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

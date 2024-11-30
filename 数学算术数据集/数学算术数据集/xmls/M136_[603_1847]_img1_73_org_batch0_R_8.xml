@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<filename>M136_[603_1847]_img1_73_org_batch0_R_8.jpg</filename>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>ans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>13</ymin>
+			<xmax>120</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>4</ymin>
+			<xmax>453</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+</annotation>

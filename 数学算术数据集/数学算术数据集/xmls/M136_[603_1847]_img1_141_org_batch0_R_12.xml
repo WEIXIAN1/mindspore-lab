@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<filename>M136_[603_1847]_img1_141_org_batch0_R_12.jpg</filename>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>ans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>267</ymin>
+			<xmax>216</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

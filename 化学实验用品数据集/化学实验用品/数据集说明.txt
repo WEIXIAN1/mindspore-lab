@@ -1,0 +1,16 @@
+此数据集为目标检测和识别数据集，共有276张样本，共15类标签，标签类别如下：
+托盘：tuo
+指针：pointer 
+砝码：fama
+杆：gan
+盒子：he
+游码：you 
+石头：shi
+手：hand
+镊子：niezi 
+烧杯：bei 
+滴管：diguan 
+滴管头：diguantou 
+凹面：ao 
+量筒底部：liangdi 
+量筒：liangtong

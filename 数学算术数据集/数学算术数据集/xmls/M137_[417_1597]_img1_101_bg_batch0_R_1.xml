@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<filename>M137_[417_1597]_img1_101_bg_batch0_R_1.jpg</filename>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>ans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>374</ymin>
+			<xmax>270</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

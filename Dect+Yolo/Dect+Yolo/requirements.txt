@@ -1,0 +1,20 @@
+numpy==1.16.3 ok
+matplotlib==3.1.0
+Pillow==6.0.0 ok
+easydict==1.9 ok
+opencv-contrib-python==4.5.2.52 ok
+opencv-python==4.5.1.48 ok
+pandas==1.1.5 ok
+PyYAML==5.3.1 ok
+scikit-image==0.17.2 ok
+scikit-learn==0.24.0 ok
+scipy==1.5.4 ok
+seaborn==0.11.2 ok
+tensorboard==2.5.0
+tensorboardX==2.1
+torch==1.7.1+cu110 ok
+torchvision==0.8.2+cu110 ok
+tqdm==4.55.1 ok
+xmltodict==0.12.0 ok
+basetrainer ok
+pybaseutils==0.7.6 ok
